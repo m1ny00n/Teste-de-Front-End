@@ -1,0 +1,53 @@
+body {
+background-color: #f8f0ff;
+}
+
+h1 {
+color: #330e4e;
+}
+
+li {
+color: #5a4370;
+}
+
+h2 {
+color: #664d79;
+}
+
+h2 {
+    background-color: #fdfdfd;
+    border: 1px solid #a991bd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button1 {
+    background-color: #a991bd;
+    color: #050505;
+    border: 2px solid #756483;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+label {
+    color: #5a4370;
+    font-weight: bold;
+}
+
+button2 {
+    font-size: 10px;
+    background-color: #a991bd;
+    color: #050505;
+    border: 2px solid #756483;
+    padding: 10px 20px;
+    border-radius: 1px;
+}
+
+button3 {
+    font-size: 10px;
+    background-color: #a991bd;
+    color: #050505;
+    border: 2px solid #756483;
+    padding: 10px 20px;
+    border-radius: 1px;
+}

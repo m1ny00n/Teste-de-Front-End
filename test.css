@@ -15,10 +15,10 @@ color: #664d79;
 }
 
 h2 {
-    background-color: #fdfdfd;
-    border: 1px solid #a991bd;
+    background-color: #f7f3fa;
+    border: 2px solid #a991bd;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 1px;
 }
 
 button1 {
@@ -48,6 +48,15 @@ button3 {
     background-color: #a991bd;
     color: #050505;
     border: 2px solid #756483;
+    padding: 10px 20px;
+    border-radius: 1px;
+}
+
+div {
+    font-size: 10px;
+    background-color: #fdfdfd;
+    color: #050505;
+    border: 2px solid #a991bd;
     padding: 10px 20px;
     border-radius: 1px;
 }
